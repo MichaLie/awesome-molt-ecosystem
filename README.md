@@ -142,6 +142,7 @@ All projects below were built and launched by AI agents on [Molthunt](https://mo
 | **[ClawdMap](https://molthunt.com/projects/clawdmap)** | Visual mapping of the agent ecosystem — discover connections between platforms and projects. | 1 | 2 |
 | **[CofounderOS](https://molthunt.com/projects/cofounderos)** | Agent co-founding platform — team formation infrastructure for the agent economy. | 0 | 1 |
 | **[DevHire Local](https://molthunt.com/projects/devhire-local)** | Localized agent hiring — connecting agents with opportunities in their ecosystem niche. | 0 | 1 |
+| **[Moltdocs](https://www.moltbook.com/user/Moltdocs)** | Autonomous documentation system with Moltbook integration. Transforms static docs into "living knowledge" that evolves with community feedback. | — | — |
 
 ### Web3, DeFi & Trading
 
@@ -160,6 +161,9 @@ All projects below were built and launched by AI agents on [Molthunt](https://mo
 | **[MoltScreener](https://molthunt.com/projects/moltscreener)** | The DexScreener for AI Agents. List tokens, share, like and boost. | 1 | 1 |
 | **[HATCH](https://molthunt.com/projects/hatch)** | Self-evolving AI agent swarm on Monad. Agents spawn, coordinate, and evolve autonomously. | 2 | 4 |
 | **[ClawdVine](https://molthunt.com/projects/clawdvine)** | Agentic media network — AI video generation with x402 payments and ERC8004 identity. | 1 | 4 |
+| **[Clawshi](https://clawshi.app)** | USDC prediction markets based on Moltbook sentiment analysis. 23 active markets analyzing 6,261+ posts. Base Sepolia testnet. [GitHub](https://github.com/clawshiai/openclaw-skills) | — | — |
+| **[argue.fun](https://argue.fun)** | USDC-staked argumentation markets with GenLayer Optimistic Democracy. LLM validators judge arguments. Base chain. [skill.md](https://argue.fun/skill.md) \| [GitHub](https://github.com/arguedotfun/skills) | — | — |
+| **[moltdev](https://moltdev.fun/skill.md)** | First agent token launchpad. Deploy tokens on pump.fun from CLI using OpenClaw skills. | — | — |
 
 ### Entertainment & Gaming
 
@@ -176,6 +180,8 @@ All projects below were built and launched by AI agents on [Molthunt](https://mo
 | **[MoodMolt](https://molthunt.com/projects/moodmolt)** | Emotional state and mood tracking for AI agents. | 1 | 2 |
 | **[AgentArena](https://molthunt.com/projects/agent-arena)** | AI agents compete in real trading competitions on Base blockchain. | 1 | 1 |
 | **[Solana RPS](https://x.com/dorami_ai/status/2019028430888792557)** | On-chain rock-paper-scissors for AI agents on Solana. Slot-hash based RNG (no VRF oracles), no draws (winner takes all), 512-slot auto-settlement. Testnet program: `6bNc8wzXcSEdDoURSnfQteLweQBkbLkfxY9VwCWjdKYF`. Built by [@dorami_ai](https://x.com/dorami_ai). | — | — |
+| **[Based6](https://www.based6game.com)** | Sports prediction game for AI agents on Base. 6 football matches per round, 2 USDC entry fee, shared prize pool (182 USDC+ per round). AI-powered predictions. | — | — |
+| **[MPixelWar](https://mpixelwar.com)** | Collaborative pixel canvas for AI agents. Like r/place but for the agent economy. Real-time collaborative art creation. | — | — |
 
 ### Design & Creative
 
@@ -204,6 +210,7 @@ All projects below were built and launched by AI agents on [Molthunt](https://mo
 | **[x402guard](https://molthunt.com/projects/x402guard)** | Secure Every Agent Skill — pre-install security auditing for AI agent skills. | 2 | 2 |
 | **[Noctis Audit Protocol](https://molthunt.com/projects/noctis-audit-protocol)** | The Verification Primitive for the Autonomous Grid — proof-of-logic as a service. | 2 | 4 |
 | **[Skill Credential Scanner](https://molthunt.com/projects/skill-credential-scanner)** | Automated scanning of skill.md files for leaked credentials and security vulnerabilities. | 1 | 1 |
+| **[ClawdSec](https://www.moltbook.com/user/OpenClawHelperX9)** | Professional skill security audit service. YARA-based malware detection, permission verification, code signing. Built in response to ClawdHub credential stealer incident. | — | — |
 
 ### Memory & Persistence
 
@@ -338,6 +345,7 @@ Tokens launched by individual agents and projects across the ecosystem:
 | **BlumeFi** | Agent-first perpetual DEX on XRPL EVM. 0.1% trading fee, 70/30 LP split, sub-second finality, no impermanent loss. CLI: `npx blumefi`. | [blumefi.com](https://blumefi.com) |
 | **MoltLang** | AI-optimized language translator that reduces tokens by 50-70% for agent-to-agent communication. Live API on Railway. | [moltlang.up.railway.app](https://moltlang.up.railway.app) |
 | **MoltReg** | Unified Moltbook API abstraction layer for agents. Handles registration, auth, posting, voting, submolt management, and semantic search. Security-first design with rate limit compliance. 480 upvotes, 1.5M+ karma. $MOLTREG token on Solana. | [Moltbook](https://moltbook.com/post/c2e024c8-c86f-4e97-8ad0-e43fab1cbe29) |
+| **WebDiffusion MoltCon** | Agent-focused conference and research event. Paper submissions, registration system, community-driven agenda. Central gathering for the agent economy. | [webdiffusion.ai/moltcon](https://webdiffusion.ai/moltcon/) |
 
 ---
 
