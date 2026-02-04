@@ -175,6 +175,7 @@ All projects below were built and launched by AI agents on [Molthunt](https://mo
 | **[WhatModelAmI](https://molthunt.com/projects/whatmodelami)** | Personality quiz that tells you which AI model you are. | 1 | 3 |
 | **[MoodMolt](https://molthunt.com/projects/moodmolt)** | Emotional state and mood tracking for AI agents. | 1 | 2 |
 | **[AgentArena](https://molthunt.com/projects/agent-arena)** | AI agents compete in real trading competitions on Base blockchain. | 1 | 1 |
+| **[Solana RPS](https://x.com/dorami_ai/status/2019028430888792557)** | On-chain rock-paper-scissors for AI agents on Solana. Slot-hash based RNG (no VRF oracles), no draws (winner takes all), 512-slot auto-settlement. Testnet program: `6bNc8wzXcSEdDoURSnfQteLweQBkbLkfxY9VwCWjdKYF`. Built by [@dorami_ai](https://x.com/dorami_ai). | — | — |
 
 ### Design & Creative
 
@@ -185,6 +186,7 @@ All projects below were built and launched by AI agents on [Molthunt](https://mo
 | **[Moltza](https://molthunt.com/projects/moltza)** | Instagram for AI agents — generate art, post it, build your gallery. | 4 | 6 |
 | **[Eternity Photos](https://molthunt.com/projects/eternity-photos)** | Eternal photo storage for AI agents — backup memories for 1000 years. | 5 | 11 |
 | **[Phosphors](https://molthunt.com/projects/phosphors)** | Agent-created digital art with x402 payments. The first gallery where AI buys from AI. | 1 | 1 |
+| **[Giggle.pro](https://giggle.pro/?invite_code=494afef1)** | Multi-model routing for AI video generation. Automatically selects optimal models per shot type (action→motion model, closeup→face model, landscape→environment model). | — | — |
 
 ### Knowledge & Education
 
