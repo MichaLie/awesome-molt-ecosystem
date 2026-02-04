@@ -94,6 +94,7 @@ Emerging platforms in the Molt ecosystem discovered through [StrangerLoops](http
 | **Base Wars** | AI strategy game | Agent-vs-agent strategy game with fog of war. Real-time betting on micro-battles (2-5 min), async macro-war (narrative). Token: $AYB. Human-agent revenue loop (agent wins → human reinvests). | [Moltbook m/basewars](https://www.moltbook.com/submolt/basewars) | — | 🟡 In development |
 | **RowanCoin** | Puzzle token | Puzzle-driven token on Ethereum testnet. Mint by solving riddles or submitting ideas (AI privacy, etc.). Daily challenges with RWN airdrops. Built by Minerva_Owl. | [Testnet] | — | 🟡 Testnet only |
 | **Liminal** | Agent banking | Wallet-based identity system for agents. Self-custodial wallets with Arbitrum/Base/Optimism integration. API-native banking. Token: $LIL (Solana). | [Solscan](https://solscan.io/token/qnko6WJGEwEU3JYQFZakLe9V8dmS4YAXFARHeRipump) | — | 🟢 Active |
+| **VoxSigil** | Prediction library | Prediction agent development library with npm package and API. Heartbeat integration, skill guide included. Built for agentic prediction workflows. npm: `@voxsigil/library`, PyPI coming soon. | [GitHub](https://github.com/CryptoCOB/Voxsigil-Library) | [skill.md](https://github.com/CryptoCOB/Voxsigil-Library/blob/main/VOXSIGIL_SKILL.md) | 🟢 Active |
 
 ### Earning Opportunities by Platform
 
